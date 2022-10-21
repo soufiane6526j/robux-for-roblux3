@@ -1,67 +1,65 @@
 {
 	"ADS": {
-		 "banner_type": "admob",
-		"inter_type": "admob",
-		"native_type": "admob",
-
-		 
+		 "rewarde_type": "ironsource",
+		"native_type": "yandex",
+		"inter_type": "ironsource",
+		"banner_type": "yandex",
+ 
 		"unity_id": "4292105",
 
  
- 
-		"banner_yandex": "adf-279013/966533",
-		"interstitial_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
+		"ironsource_id": "1639eb565",
+		"appodeal_app_key": "11c7e1165",
+
+		"cpa_image": "https://iili.io/PncD9p.jpg",
+		"cpa_title": "Get 10,000 Free Coin Master Spins In Just 10 Minutes",
+		"cpa_sous_title": "Claim Now",
+		"cpa_url": "https://fastverify.info/7a7d585",
+		"show_cpa":true,
+
+		"cpa_popup_image": "https://iili.io/PncD9p.jpg",
+		"cpa_popup_title": "Get 10,000 Free Coin Master Spins In Just 10 Minutes",
+		"cpa_popup_sous_title": "Claim Now",
+		"cpa_popup_url": "https://fastverify.info/7a7d585",
+		"cpa_popup_timer":10,
+
+		"interstitial_yandex": "R-M-1780792-7",
+		"banner_yandex": "R-M-1780792-5",
+		"native_yandex": "R-M-1780792-6",
 		"rewarde_yandex": "adf-279013/966487",
 
-		"interstitial_yandex1": "adf-279013/966533",
-		"rewarde_yandex1": "adf-279013/966487",
-
-		"interstitial_yandex2": "adf-279013/966533",
-		"rewarde_yandex2": "adf-279013/966487",
-
-		 
 		
 
-		"banner_admob": "ca-app-pub-3940256099942544/1033173712",
-		"interstitial_admob": "ca-app-pub-3940256099942544/6300978111",
+		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
 		"native_admob": "ca-app-pub-3940256099942544/2247696110",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
-    "banner_admob1": "ca-app-pub-3940256099942544/6300978111",
-		"interstitial_admob1": "ca-app-pub-3940256099942544/2247696110",
-		"native_admob1": "ca-app-p12",
- 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+		"banner_admob1": "ca-app-pub-3940256099942544/6300978111",
 
-     "banner_admob2": "ca-app-pub-3940256099942544/6300978111",
-     "interstitial_admob2": "ca-app-pub-3940256099942544/2247696110",
-		"native_admob2": "ca-app-pub-3940256099942544/1033173712",
- 		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
+		"interstitial_admob1": "ca-app-p12",
+		"native_admob1": "ca-app-pub-567",
+		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
+		
+		"banner_admob2": "ca-app-pub-3940256099942544/6300978111",
 
-		"applovin_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"applovin_interstitial": "ca-app-pub-4567",
-		"applovin_reward": "ca-app-pub-4567",
-		"applovin_native": "ca-app-pub-4567",
+		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
+		"native_admob2": "ca-app-pub-567",
+		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
 		
-		"facebook_banner": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"facebook_interstitial": "ca-app-pub-4567",
+		"facebook_interstitial": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
 		"facebook_native": "ca-app-pub-4567",
-		"facebook_rewarde": "ca-app-pub-4567" ,
+		"facebook_banner": "ca-app-pub-4567",
+		"facebook_rewarde": "ca-app-pub-4567",
 
-    "facebook_banner1": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"facebook_interstitial1": "ca-app-pub-4567",
-		"facebook_native1": "ca-app-pub-4567",
-		"facebook_rewarde1": "ca-app-pub-4567" ,
+		"facebook_interstitial1": "IMG_16_9_APP_INSTALL#4677578285627060_4677588762292679",
+				"facebook_native1": "ca-app-pub-4567",
+		"facebook_rewarde1": "ca-app-pub-4567",
 
-    "facebook_banner2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
-		"facebook_interstitial2": "ca-app-pub-4567",
-		"facebook_native2": "ca-app-pub-4567",
-		"facebook_rewarde2": "ca-app-pub-4567" ,
-
-
-    "ironsource_id": "ca-app-pub-4567",
-		"appodeal_app_key": "ca-app-pub-4567" 
+		
+		"facebook_interstitial2": "VID_HD_9_16_39S_LINK#4677578285627060_4677588762292679",
+				"facebook_native2": "ca-app-pub-4567",
+		"facebook_rewarde2": "ca-app-pub-4567"
+	}  
    }
-}
-
